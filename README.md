@@ -1,6 +1,6 @@
 # Pathfinding Visualizer (WIP)
 
-A tool to help visualize various pathfinding algorithms. Here is a live [demo](google.com)
+A tool to help visualize various pathfinding algorithms. Here is a live [demo](https://main.d7rzd7bz5i16c.amplifyapp.com/)
 
 ## Prototypes
 
@@ -14,6 +14,6 @@ A tool to help visualize various pathfinding algorithms. Here is a live [demo](g
 
 ## Supported Algorithms
 
-- [x]bfs
-- []dfs
-- []dijkstra's
+- [x] bfs
+- [] dfs
+- [] dijkstra's
