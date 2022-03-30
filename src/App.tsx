@@ -10,7 +10,7 @@ import { useWindowDimensions } from "./utils/windowDimensions";
 
 function App() {
   const [selectedAlgorithm, setSelectedAlgorithm] = useState(
-    ShortestPathAlgorithm.dijkstras as ShortestPathAlgorithm
+    ShortestPathAlgorithm.bfs as ShortestPathAlgorithm
   );
   const { height, width } = useWindowDimensions();
   const generateGrid = useCallback((): Grid => {

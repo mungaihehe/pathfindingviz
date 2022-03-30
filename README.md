@@ -15,5 +15,5 @@ A tool to help visualize various pathfinding algorithms. Here is a live [demo](h
 ## Supported Algorithms
 
 - [x] bfs
-- [] dfs
-- [] dijkstra's
+- [ ] dfs
+- [ ] dijkstra's
